@@ -41,6 +41,7 @@ AppAsset::register($this);
             ['label' => 'Inicio', 'url' => ['/site/index']],
             ['label' => 'Sobre mi', 'url' => ['/site/about']],
             ['label' => 'Contactame', 'url' => ['/site/contact']],          
+            ['label' => 'Comentar', 'url' => ['/comentario/create']], 
             ['label' => 'Repositorio', 'url' => null, 'linkOptions' => ['href'=> 'https://github.com/Doki1992/proyectosemi', 'target'=>'_blank']],   
         ],
     ]);
