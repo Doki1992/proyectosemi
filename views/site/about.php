@@ -8,11 +8,11 @@ $this->title = 'About';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="site-about">
-    <h1><?= Html::encode($this->title) ?></h1>
-
-    <p>
-        This is the About page. You may modify the following file to customize its content:
-    </p>
-
-    <code><?= __FILE__ ?></code>
+    <h1>Datos personales </h1> 
+    <div class="row">
+    	<div class="col-md-3">Nombre: Mike Gutierrez</div>
+    	<div class="col-md-3">Telefono: 66432523</div>
+    	<div class="col-md-3">Correo: mike58072@gmail.com</div>
+    	<div class="col-md-3">Carne: 201013266</div>    	
+    </div>      
 </div>
