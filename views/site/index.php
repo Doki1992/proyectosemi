@@ -11,7 +11,9 @@ $this->title = 'Portafolio ';
 
         <p class="lead">Desarrollador de paginas web</p>
 
-        <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Get started with Yii</a></p>
+        <!--<p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Get started with Yii</a>            
+        </p>-->
+        <div class="row"><iframe width="560" height="315" src="https://www.youtube.com/embed/CMgG7_d4qok" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
     </div>
 
     <div class="body-content">
